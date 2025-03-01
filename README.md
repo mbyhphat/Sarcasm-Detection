@@ -14,7 +14,7 @@ This repository aims to classify an image and its corresponding caption into one
 * Handling heavily imbalanced data distribution, as shown below.
 
 <a align="center">
-    <img src="assets/Screenshot 2025-03-01 225440.png" align="center"> 
+    <img src="assets/label distribution.png" align="center"> 
 
 ## **Solutions**
 * Apply cross-attention to fuse text and image features effectively.
